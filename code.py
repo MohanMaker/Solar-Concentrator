@@ -2,9 +2,9 @@
 
 # Overall concept:
 #    - Take the current time and location and calculate the elevation and azimuth angles of the sun
-#    - From the angle of the sun, calculate the desired mirror angle on both axes
+#    - From the angle of the sun, calculate the desired mirror angle on both axes; front-back and right-left (spherical to cartesian coordinates, trigonometry, angle of incidence = angle of reflection)
 #    - Translate the desired mirror angle to the angle of the stepper motor on each axis, and then to steps/microsteps
-#    - Repeat many times to adjust the mirror angle and maintain a constant focal point as the sun moves across the sky
+#    - Move the stepper to this postion and repeat many times to adjust the mirror angle and maintain a constant focal point as the sun moves across the sky
 # Resources:
 #    - https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing/circuitpython
 #    - https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/circuitpython
