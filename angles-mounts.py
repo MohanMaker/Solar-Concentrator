@@ -116,3 +116,5 @@ while j < len(helio):
         csv.write("\n" + str(helio[j][0]) + "-" + str(helio[j][1]) + "," + str(helio[j][4]) + "," + str(helio[j][5]) + "," + str(helio[j][6]) + "," + str(helio[j][7]))
     j += 1
 csv.close
+
+# Data is exported into a csv. Can use Parameter I/O extension to import the values into the Fusion 360 parametric model
