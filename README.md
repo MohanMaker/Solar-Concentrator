@@ -3,12 +3,14 @@
 **A benchtop 2-axis tracking heliostat apparatus/solar concentrator for conceptual demonstrations of novel geoengineering innovations**
 
 Mohan Hathi, Chris Stokes, Ye Tao
+
 [Project MEER:ReflEction](https://www.meerreflection.com)
+
 Tao Lab @ The Rowland Institute at Harvard University
 
-![Overall Image](https://github.com/MohanMaker/Solar-Concentrator/Photos-Videos/1. Overview.jpeg)
+![Overall Image](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/1.%20Overview.jpeg)
 
-![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/Photos/Demo_1.gif)
+![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_1.gif)
 
 ## Project Overview
 As part of a project working on climate change solution with mirrors, we have created a small scale benchtop sun-tracking solar concentrator, which can be used to cook food, generate electricity, or in this case, calcinate calcium carbonate (clamshells) in a reaction chamber, as part of an ocean deacidification and CO2 capture cycle. The device is designed to be created out of common parts, and most of the components can be 3D printed, laser-cut, or CNC machined.
@@ -28,5 +30,4 @@ All of these parts come together to form a robust and versatile sun-tracking pla
 
 
 
-For Project Administrators Only:
-(Google Drive Documentation)[https://drive.google.com/drive/folders/1jxcG3tS0jDyiT93cw37qHE2v5bExMBay?usp=sharing]
+For Project Administrators Only: [Google Drive Documentation](https://drive.google.com/drive/folders/1jxcG3tS0jDyiT93cw37qHE2v5bExMBay?usp=sharing)
