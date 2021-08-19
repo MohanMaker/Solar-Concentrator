@@ -101,7 +101,7 @@ with open('/Users/mohanhathi/Desktop/Projects/Solar-Concentrator/heliostat-angle
     writer.writerow(header)
     for r in range(len(helio)):
         for c in range(len(helio[r])):
-            data = [(str(r + 1) + "-" + str(c + 1)), helio[r][c][0], helio[r][c][1], helio[r][c][2], helio[r][c][3]]
+            data = [(str(r + 1) + "_" + str(c + 1)), helio[r][c][0], helio[r][c][1], helio[r][c][2], helio[r][c][3]]
             writer.writerow(data)
 
 # data is exported into a csv -- then use the CornerHeight code in Fusion 360 Scripts/Extensions to import the values into the fusion 360 parametric model and create the stl files
