@@ -6,8 +6,6 @@ Mohan Hathi, Chris Stokes, Ye Tao | [Project MEER:ReflEction](https://www.meerre
 
 ![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_01.gif)
 
-For Project Administrators Only: [Google Drive Documentation](https://drive.google.com/drive/folders/1jxcG3tS0jDyiT93cw37qHE2v5bExMBay?usp=sharing)
-
 ## Project Overview
 As part of a project working on climate change solutions with mirrors, we have created a small scale benchtop sun-tracking solar concentrator, which can be used to cook food, generate electricity, or in this case, calcinate calcium carbonate (clamshells) in a reaction chamber, as part of an ocean deacidification and CO2 capture cycle. The device is designed to be created out of common parts, and most of the components can be 3D printed, laser-cut, or CNC machined.
 
