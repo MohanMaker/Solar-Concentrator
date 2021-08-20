@@ -4,7 +4,7 @@
 
 Mohan Hathi, Chris Stokes, Ye Tao | [Project MEER:ReflEction](https://www.meerreflection.com) | Tao Lab @ The Rowland Institute at Harvard
 
-![Overall Image](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/1.%20Overview.jpeg)
+![Overall Image](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/01_Overview.jpeg)
 
 ![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_1.gif)
 
