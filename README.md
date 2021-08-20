@@ -6,7 +6,7 @@ Mohan Hathi, Chris Stokes, Ye Tao | [Project MEER:ReflEction](https://www.meerre
 
 ![Overall Image](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/01_Overview.jpeg)
 
-![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_1.gif)
+![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_01.gif)
 
 For Project Administrators Only: [Google Drive Documentation](https://drive.google.com/drive/folders/1jxcG3tS0jDyiT93cw37qHE2v5bExMBay?usp=sharing)
 
