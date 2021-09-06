@@ -58,8 +58,8 @@ bno = BNO08X_UART(uart)
 bno.enable_feature(adafruit_bno08x.BNO_REPORT_ROTATION_VECTOR)
 
 # Inputs/variables
-my_lat = 42.382700550206756  # Latitude (+ to N)
-my_lng = -71.12043628223526  # Longitude (+ to E)
+my_lat = 42  # Latitude (+ to N)
+my_lng = -71  # Longitude (+ to E)
 my_time_zone = -4  # Time Zone (+ to E)
 # my_currentdatetime = (2020, 9, 12, 11, 36, 0, 0, -1, -1)  # Enable for testing if you want to set a custom date. Otherwise we call rtc.datetime which gets live date and time from rtc in struct_time format
 
