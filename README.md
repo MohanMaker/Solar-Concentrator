@@ -2,7 +2,7 @@
 
 **A benchtop 2-axis tracking heliostat apparatus/solar concentrator for conceptual demonstrations of novel geoengineering innovations**
 
-Mohan Hathi, Chris Stokes, Ye Tao | [Project MEER](https://www.meerreflection.com) | Tao Lab @ The Rowland Institute at Harvard
+Mohan Hathi, Chris Stokes, Ye Tao | [Project MEER](https://www.meer.org) | Tao Lab @ The Rowland Institute at Harvard
 
 ![Movement Demo](https://github.com/MohanMaker/Solar-Concentrator/blob/main/Photos-Videos/Demo_01.gif)
 
